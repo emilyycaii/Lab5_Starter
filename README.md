@@ -8,6 +8,8 @@ Links:
 
 [expose.html]([URL](https://emilyycaii.github.io/Lab5_Starter/expose.html))
 
+[explore.html]([URL](https://emilyycaii.github.io/Lab5_Starter/explore.html))
+
 Check Your Understanding:
 
 1. No, you would not use a unit test to test the “message” feature of a messaging application. The messaging feature is made of too many parts. It involves visual design, backend, data storage and other things for it to work. Unit testing is just for testing an individual part of code. It would be better to test the messaging feature with a bigger test that checks how everything works together.
