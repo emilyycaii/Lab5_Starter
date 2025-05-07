@@ -6,9 +6,9 @@ Emily Cai
 
 Links:
 
-[expose.html]([URL](https://emilyycaii.github.io/Lab5_Starter/expose.html))
+[expose.html](https://emilyycaii.github.io/Lab5_Starter/expose.html)
 
-[explore.html]([URL](https://emilyycaii.github.io/Lab5_Starter/explore.html))
+[explore.html](https://emilyycaii.github.io/Lab5_Starter/explore.html)
 
 Check Your Understanding:
 
